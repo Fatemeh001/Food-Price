@@ -66,4 +66,4 @@ else:
 
     # Open the chart
     chart.open()
-  
+    
